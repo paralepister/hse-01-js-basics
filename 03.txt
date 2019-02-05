@@ -1,0 +1,22 @@
+let start = "Жили у бабуси"
+let end = "...один серый, другой белый – два веселых гуся"
+
+let text = start
+
+if (text === start) {
+    alert(end)
+} else {
+    alert(start)
+}
+
+
+
+let discountCode = 985
+let simpsonsBestEpisode = "Broken Secret"
+let coffeePrice = 149.99
+
+let (coffeePrice <= 250) {
+    alert("Беру!")
+} else {
+    alert("Вот купон: " + discountCode)
+}
